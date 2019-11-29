@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #This code was written by Gabriella Agazie with help from Michael Mingyar on Tuesday October 1st, 2019. 
 
-#This code is a Monte Carlo simulation in which we create a random population of galaxies with randomly assigned masses, 
+#This code is a Monte Carlo simulation in which we create a random population of galaxies with randomly assigned masses, and use the rejection method to determine detectable galaxies and calculate the HIMF for each galaxy
 #To run this simulation you will need python 2.7. There are no additional files needed to run the simulation
 from random import random
 import numpy as np
