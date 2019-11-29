@@ -1,7 +1,11 @@
 # Comp_astro_scripts
+
 #Scripts written for my Computational Astrophysics course during the Fall 2019 semester at West Virginia University. 
+
 #Some of the scripts require a txt file to be in the same directory as the script and the ones that I have used are included.
+
 #Acronyms: HI- Neutral Hydrogen; HIMF-Neutral Hydrogen Mass Function; FRB - Fast Radio Burst; MCMC- Monte Carlo Markov Chain; SNR-Signal to noise ratio
+
 #####Short descriptions of each code#####
 
 ##FRB_dist.py : A code that runs a 2 sample KS test to determine whether the current population (as of Nov 29, 2019) of FRBs has a number density vs distance relation that follows the relation predicted by the star formation rate equation. Requires the file frbcat_data.txt to run
